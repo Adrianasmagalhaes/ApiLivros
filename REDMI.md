@@ -1,1 +1,0 @@
-Projeto de criação de uma API RESTful utilizando Node.js e o framework Express, com persistência de dados no banco MongoDB. A arquitetura segue boas práticas de organização de código, rotas modularizadas e integração com o banco de forma assíncrona por meio do Mongoose.
